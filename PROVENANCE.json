@@ -2,7 +2,7 @@
   "what": "Unofficial redesign preview of www.brighteyesdallas.com. Not operated by, affiliated with or endorsed by Bright Eyes Vision.",
   "preview": "https://chris-sgen.github.io/brighteyesdallas/",
   "liveSite": "https://www.brighteyesdallas.com/",
-  "generated": "2026-10-20T07:22:04.709Z",
+  "generated": "2026-10-20T07:28:58.780Z",
   "snapshot": {
     "pagesReadUtc": {
       "first": "2026-10-20T01:29:10.358Z",
@@ -473,7 +473,7 @@
     }
   ],
   "verification": {
-    "measured": "on a local server serving the tree under the project path",
+    "measured": "on a local server serving the tree under the project path, then at the public address",
     "browser": "Chrome 155",
     "previewChecksVerdict": "PASS",
     "pageLoads": 413,
@@ -523,6 +523,43 @@
       "rulesOfTheBrowserPass": 22,
       "rulesOfTheFormTrials": 12,
       "rulesOfThePublicAddressPass": 19
+    },
+    "publicAddress": {
+      "filesIdentical": 628,
+      "filesAsked": 628,
+      "notFound": {
+        "status": 404,
+        "isThePage": true
+      },
+      "withoutSlash": {
+        "page": "404-page-not-found/",
+        "status": 301,
+        "location": "https://chris-sgen.github.io/brighteyesdallas/404-page-not-found/"
+      },
+      "capitals": {
+        "asked": "404-PAGE-NOT-FOUND/",
+        "status": 404
+      },
+      "browserPages": [
+        "/",
+        "/contact-us/",
+        "/contact-us/contact-form/",
+        "/contact-us/patient-registration-form/",
+        "/aoa-privacy-policy/",
+        "/our-eye-doctors/",
+        "/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/"
+      ],
+      "formTrials": {
+        "forms": 1,
+        "trials": 8,
+        "shipped": 2,
+        "control": 2,
+        "attributes": 2,
+        "guards": 2,
+        "controlsSeen": 2,
+        "enterPressed": 2,
+        "buttonClicked": 2
+      }
     }
   },
   "pictures": {
