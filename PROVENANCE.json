@@ -1,0 +1,610 @@
+{
+  "what": "Unofficial redesign preview of www.brighteyesdallas.com. Not operated by, affiliated with or endorsed by Bright Eyes Vision.",
+  "preview": "https://chris-sgen.github.io/brighteyesdallas/",
+  "liveSite": "https://www.brighteyesdallas.com/",
+  "generated": "2026-10-20T07:22:04.709Z",
+  "snapshot": {
+    "pagesReadUtc": {
+      "first": "2026-10-20T01:29:10.358Z",
+      "last": "2026-10-20T01:40:29.447Z",
+      "addresses": 220,
+      "notFound": 10
+    },
+    "picturesDownloadedByUtc": "2026-10-20T01:47:52.298Z",
+    "browserPassOverTheLiveSiteUtc": {
+      "from": "2026-10-20T01:48:25.318Z",
+      "to": "2026-10-20T02:56:54.424Z"
+    }
+  },
+  "pages": 207,
+  "files": 632,
+  "hardening": {
+    "robots": "noindex, nofollow, noarchive, nosnippet, noimageindex",
+    "robotsTags": 207,
+    "noReferrerTags": 207,
+    "jsonLdBlocksRemoved": 619,
+    "linkPreviewPictureTagsRemoved": 414,
+    "ogUrlRewritten": 207,
+    "siteNameRewritten": 207,
+    "descriptionsCarryingTheDisclosure": 207,
+    "pageDescriptionsReplaced": [
+      "/contact-us/contact-form/",
+      "/contact-us/",
+      "/contact-us/patient-registration-form/",
+      "/contact-us/schedule-appointment/"
+    ],
+    "linkCardTitlesMarked": 207,
+    "iconLinksRemoved": 414,
+    "practiceFormsInert": 1,
+    "guardControlsAdded": 2,
+    "submitButtonsDisabled": 1,
+    "formNotices": 1,
+    "formPageNotices": 1,
+    "otherCompanysFormsNotLoaded": [
+      "/contact-us/patient-registration-form/",
+      "/contact-us/schedule-appointment/"
+    ],
+    "otherCompanysFormScriptsRemoved": 2,
+    "reviewBadgeSettingsTakenOff": 621,
+    "doctorPortraits": {
+      "portraits": 2,
+      "placesNotShown": [
+        {
+          "page": "/",
+          "what": "portraits of the doctors",
+          "kind": "person",
+          "how": "the portrait of a card"
+        },
+        {
+          "page": "/",
+          "what": "portraits of the doctors",
+          "kind": "person",
+          "how": "the portrait of a card"
+        },
+        {
+          "page": "/our-eye-doctors/",
+          "what": "portraits of the doctors",
+          "kind": "person",
+          "how": "the portrait of a card"
+        },
+        {
+          "page": "/our-eye-doctors/",
+          "what": "portraits of the doctors",
+          "kind": "person",
+          "how": "the portrait of a card"
+        },
+        {
+          "page": "/team/dr-evangeli-inocando/",
+          "what": "portraits of the doctors",
+          "kind": "person",
+          "how": "the portrait at the head of the page"
+        },
+        {
+          "page": "/team/dr-evangeli-inocando/",
+          "what": "portraits of the doctors",
+          "kind": "person",
+          "how": "the portrait of a card"
+        },
+        {
+          "page": "/team/dr-yuvani-tran/",
+          "what": "portraits of the doctors",
+          "kind": "person",
+          "how": "the portrait at the head of the page"
+        },
+        {
+          "page": "/team/dr-yuvani-tran/",
+          "what": "portraits of the doctors",
+          "kind": "person",
+          "how": "the portrait of a card"
+        }
+      ],
+      "initialsTiles": 8
+    },
+    "liveTextNotes": {
+      "pages": [
+        "/disclaimer/",
+        "/privacy-policy/",
+        "/aoa-privacy-policy/",
+        "/website-accessibility-policy/",
+        "/welcome-to-our-new-website/",
+        "/contact-us/",
+        "/insurance/carecredit/"
+      ]
+    },
+    "linksThatCarriedAReferralCode": [
+      {
+        "page": "/insurance/carecredit/",
+        "link": "credit application",
+        "now": "the live page /insurance/carecredit/"
+      }
+    ],
+    "practiceDocumentsNotShipped": {
+      "links": [
+        {
+          "page": "/eye-care-services-old/2713-2/",
+          "file": "Advanced-Wellness-Screening-Options.pdf"
+        }
+      ],
+      "files": 1,
+      "notes": 1
+    },
+    "mapFramesWithNoReferrer": {
+      "frames": 206,
+      "alreadySoInThePrivateBuild": 206
+    },
+    "canonicalRemoved": [
+      "/404.html",
+      "/search/",
+      "/sitemap/"
+    ],
+    "searchIndexEntriesReducedToTitleAndSection": [
+      "/contact-us/contact-form/",
+      "/contact-us/patient-registration-form/",
+      "/contact-us/schedule-appointment/"
+    ],
+    "searchIndexSummariesBlanked": [
+      "/contact-us/"
+    ],
+    "loopAndSearchIndexAddressesMadeRelativeToThePage": 3,
+    "toolingHelperRemovedFromPages": 206,
+    "scriptsPatchedForAFilmFrame": [
+      "assets/js/site.428517ad6e.js"
+    ],
+    "commentsTakenOut": {
+      "css": 181,
+      "js": 105
+    },
+    "svgCleaned": [
+      "assets/img/2yc2c0viqxkn0qbc-30f3d40d.svg"
+    ],
+    "aiLabels": {
+      "webp": 115,
+      "mp4": 2
+    },
+    "notShipped": [
+      "llms.txt",
+      "sitemap.xml",
+      "_redirects"
+    ],
+    "robotsTxt": "the private build's file is replaced by the preview's own (Disallow: /)",
+    "filesNothingNamesNotShipped": 16,
+    "fontLicences": [
+      "assets/fonts/OFL-Atkinson-Hyperlegible-Next.txt",
+      "assets/fonts/OFL-Lexend.txt"
+    ]
+  },
+  "generatedMedia": [
+    {
+      "file": "loop-home",
+      "kind": "loop",
+      "shows": "tortoiseshell eyeglasses on a linen tablecloth in morning light, the light moving slowly (made from one still, used as its first and last frame)",
+      "madeWith": "Higgsfield: kling-video/o3/first-last-frame, from the still still-home (fal.ai: nano-banana-pro)",
+      "files": 5,
+      "pages": [
+        "/"
+      ]
+    },
+    {
+      "file": "still-contacts",
+      "kind": "still",
+      "shows": "a contact-lens case on a marble counter",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 13,
+      "pages": [
+        "/eye-care-services/your-eye-health/childrens-vision/",
+        "/eye-care-services/your-eye-health/childrens-vision/are-contact-lenses-a-good-choice-for-kids/",
+        "/eye-care-services/your-eye-health/contact-lens-basics/",
+        "/eye-care-services/your-eye-health/eye-exams/eye-exams-for-contact-lenses/",
+        "/eyeglasses-contacts/contact-lenses/bifocal-and-multifocal-contact-lenses/",
+        "/eyeglasses-contacts/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+        "/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+        "/eyeglasses-contacts/contact-lenses/eye-exams-for-contact-lenses/",
+        "/eyeglasses-contacts/contact-lenses/gas-permeable-gp-contact-lenses/",
+        "/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+        "/eyeglasses-contacts/specialty-eyewear/contacts-glasses-that-enhance-performance/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-desk",
+      "kind": "still",
+      "shows": "clear eyeglasses on a wooden desk by a window, with a notebook and a potted plant",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 13,
+      "pages": [
+        "/eye-care-services/blue-lighthigh-energy-visible-hev-light-and-your-eyes/",
+        "/eye-care-services/your-eye-health/computer-eyestrain/",
+        "/eye-care-services/your-eye-health/computer-eyestrain/children-and-computer-vision-syndrome/",
+        "/eye-care-services/your-eye-health/computer-eyestrain/computer-glasses/",
+        "/eye-care-services/your-eye-health/computer-eyestrain/worker-productivity-and-computer-vision-syndrome/",
+        "/eye-care-services/your-eye-health/eye-conditions/low-vision/",
+        "/eye-care-services/your-eye-health/eye-conditions/low-vision/low-vision-aids-for-computer-users/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-desk-pen",
+      "kind": "still",
+      "shows": "a notebook and a pen on a desk by a window, with a flower in a vase",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 4,
+      "pages": [
+        "/contact-us/",
+        "/contact-us/contact-form/",
+        "/contact-us/patient-registration-form/",
+        "/contact-us/schedule-appointment/",
+        "/insurance/faqs-of-vision-insurance-plans/",
+        "/insurance/whats-in-your-vision-insurance-plan/"
+      ]
+    },
+    {
+      "file": "still-drops-b",
+      "kind": "still",
+      "shows": "a glass dropper over a drop of water on stone",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 8,
+      "pages": [
+        "/eye-care-services/dry-eye-disease-and-treatment/",
+        "/eye-care-services/your-eye-health/eye-conditions/dry-eye-syndrome/",
+        "/eye-care-services/your-eye-health/vision-over-40/",
+        "/eye-care-services/your-eye-health/vision-over-40/dry-eye-after-menopause/"
+      ]
+    },
+    {
+      "file": "still-exam-c-alt-1",
+      "kind": "still",
+      "shows": "the rim of a round lens, close up and out of focus behind",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 9,
+      "pages": [
+        "/eye-care-services/your-eye-health/eye-exams/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/autorefractor/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/eye-dilation/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/glaucoma-test/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/ophthalmoscope/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/peripheral-vision-test/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/phoropter/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/puffer-test/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/retinoscope/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/slit-lamp-exam/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/snellen-chart/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/vision-screening/",
+        "/eye-care-services/your-eye-health/eye-exams/common-tests/vision-testing/",
+        "/eye-care-services/your-eye-health/eye-exams/preparing-for-an-eye-exam/",
+        "/eye-care-services/your-eye-health/eye-exams/why-are-eye-exams-important/",
+        "/eye-care-services/your-eye-health/eye-exams/your-comprehensive-eye-exam/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-frames-b",
+      "kind": "still",
+      "shows": "three pairs of eyeglass frames lying flat on a stone surface",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 8,
+      "pages": [
+        "/eyeglasses-contacts/eyeglass-basics/",
+        "/eyeglasses-contacts/eyeglass-basics/eyeglass-frames/",
+        "/eyeglasses-contacts/eyeglass-basics/mens-eyeglass-frames/",
+        "/eyeglasses-contacts/prescription-eyeglasses/",
+        "/eyeglasses-contacts/prescription-eyeglasses/eyeglass-frame-materials/",
+        "/eyeglasses-contacts/prescription-eyeglasses/frame-maintenance/",
+        "/eyeglasses-contacts/specialty-eyewear/safety-and-sports-glasses/",
+        "/eyeglasses-contacts/specialty-eyewear/scuba-masks-and-swim-goggles/",
+        "/eyeglasses-contacts/specialty-eyewear/shooting-glasses-and-hunting-eyewear/",
+        "/eyeglasses-contacts/specialty-eyewear/specialty-eyewear-overview/"
+      ]
+    },
+    {
+      "file": "still-greens",
+      "kind": "still",
+      "shows": "a bowl of leafy greens and orange peppers on linen",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 4,
+      "pages": [
+        "/eye-care-services/your-eye-health/healthy-sight/"
+      ]
+    },
+    {
+      "file": "still-iris",
+      "kind": "still",
+      "shows": "an abstract ring of warm light around a dark centre, made to look like the iris of an eye (it is not a photograph of one)",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 12,
+      "pages": [
+        "/eye-care-services/management-of-ocular-diseases/",
+        "/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+        "/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/",
+        "/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+        "/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+        "/eye-care-services/your-eye-health/",
+        "/eye-care-services/your-eye-health/eye-conditions/",
+        "/eye-care-services/your-eye-health/eye-conditions/astigmatism/",
+        "/eye-care-services/your-eye-health/eye-conditions/blepharitis/",
+        "/eye-care-services/your-eye-health/eye-conditions/cmv-retinitis/",
+        "/eye-care-services/your-eye-health/eye-conditions/eye-allergies/",
+        "/eye-care-services/your-eye-health/eye-conditions/eye-floaters-and-spots/",
+        "/eye-care-services/your-eye-health/eye-conditions/farsighted-hyperopia/",
+        "/eye-care-services/your-eye-health/eye-conditions/keratoconus/",
+        "/eye-care-services/your-eye-health/eye-conditions/low-vision/",
+        "/eye-care-services/your-eye-health/eye-conditions/low-vision/how-to-cope-with-low-vision/",
+        "/eye-care-services/your-eye-health/eye-conditions/nearsighted-myopia/",
+        "/eye-care-services/your-eye-health/eye-conditions/ocular-hypertension/",
+        "/eye-care-services/your-eye-health/eye-conditions/pingueculae-pterygia/",
+        "/eye-care-services/your-eye-health/eye-conditions/pink-eye-conjunctivitis/",
+        "/eye-care-services/your-eye-health/eye-conditions/ptosis/",
+        "/eye-care-services/your-eye-health/eye-conditions/retinal-detachment/",
+        "/eye-care-services/your-eye-health/eye-conditions/retinitis-pigmentosa/",
+        "/eye-care-services/your-eye-health/eye-conditions/styes/",
+        "/eye-care-services/your-eye-health/eye-conditions/uveitis/",
+        "/eye-care-services/your-eye-health/eye-diseases/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/cataract-surgery-treatment/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/causes-of-cataracts/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/more-about-cataracts/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/signs-symptoms/",
+        "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/",
+        "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/causes-of-diabetic-retinopathy/",
+        "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/overview-of-diabetic-retinopathy/",
+        "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/signs-and-symptoms-of-diabetic-retinopathy/",
+        "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/treatment-for-diabetic-retinopathy/",
+        "/eye-care-services/your-eye-health/eye-diseases/glaucoma/",
+        "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/",
+        "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/forms-of-macular-degeneration/",
+        "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/overview/",
+        "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/symptoms-risk-factors-of-macular-degeneration/",
+        "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/treatment-of-macular-degeneration/",
+        "/eye-care-services/your-eye-health/glossary-of-eye-care-terms/",
+        "/eye-care-services/your-eye-health/how-the-eye-works/",
+        "/pink-stinging-eyes/",
+        "/tag/eye-emergencies/",
+        "/tag/gsp-eye-emergencies/"
+      ]
+    },
+    {
+      "file": "still-kids",
+      "kind": "still",
+      "shows": "small blue eyeglasses on a wooden table with toy blocks and a paper plane",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 13,
+      "pages": [
+        "/eye-care-services/pediatric-eye-exams/",
+        "/eye-care-services/treatment-of-vision-related-learning-problems-in-children/",
+        "/eye-care-services/your-eye-health/childrens-vision/",
+        "/eye-care-services/your-eye-health/childrens-vision/childrens-vision-faqs/",
+        "/eye-care-services/your-eye-health/childrens-vision/controlling-nearsightedness-in-children/",
+        "/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/",
+        "/eye-care-services/your-eye-health/childrens-vision/your-infants-visual-development/",
+        "/eye-care-services/your-eye-health/eye-conditions/amblyopia-lazy-eye/",
+        "/eye-care-services/your-eye-health/eye-exams/eye-exams-for-children/",
+        "/tag/all-about-vision/"
+      ]
+    },
+    {
+      "file": "still-lens-b",
+      "kind": "still",
+      "shows": "rimless eyeglasses on a white ground",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 8,
+      "pages": [
+        "/eyeglasses-contacts/eyeglass-basics/",
+        "/eyeglasses-contacts/eyeglass-basics/lens-options-for-eyeglasses/",
+        "/eyeglasses-contacts/lens-treatments/",
+        "/eyeglasses-contacts/lens-treatments/scratch-resistant/",
+        "/eyeglasses-contacts/prescription-eyeglasses/",
+        "/eyeglasses-contacts/prescription-eyeglasses/caring-for-lenses/",
+        "/eyeglasses-contacts/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+        "/eyeglasses-contacts/prescription-eyeglasses/polycarbonate-lenses/"
+      ]
+    },
+    {
+      "file": "still-light",
+      "kind": "still",
+      "shows": "a thin ring of light over dark water",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 8,
+      "pages": [
+        "/eye-care-services/lasik-refractive-surgery-co-management/",
+        "/eye-care-services/your-eye-health/eye-conditions/corneal-transplant/",
+        "/eye-care-services/your-eye-health/vision-surgery/",
+        "/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/",
+        "/eye-care-services/your-eye-health/vision-surgery/corneal-transplant/",
+        "/eye-care-services/your-eye-health/vision-surgery/corrective-eye-surgery-basics/",
+        "/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/",
+        "/eye-care-services/your-eye-health/vision-surgery/lasik-risks-and-complications/",
+        "/eye-care-services/your-eye-health/vision-surgery/lasik/",
+        "/eye-care-services/your-eye-health/vision-surgery/prk/"
+      ]
+    },
+    {
+      "file": "still-reading",
+      "kind": "still",
+      "shows": "reading glasses on an open book, with a cup of tea and honey",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 8,
+      "pages": [
+        "/eye-care-services/presbyopia-diagnosis-and-treatment/",
+        "/eye-care-services/your-eye-health/eye-conditions/presbyopia/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+        "/eye-care-services/your-eye-health/eye-diseases/cataracts/common-questions-about-presbyopia-correcting-iols/",
+        "/eye-care-services/your-eye-health/vision-over-40/",
+        "/eye-care-services/your-eye-health/vision-over-40/how-progressive-lenses-work/",
+        "/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/",
+        "/eye-care-services/your-eye-health/vision-over-40/occupational-bifocal-and-trifocals/",
+        "/eye-care-services/your-eye-health/vision-over-40/reading-glasses-after-40/",
+        "/eye-care-services/your-eye-health/vision-over-60/",
+        "/eye-care-services/your-eye-health/vision-over-60/age-your-vision-changes-solutions/",
+        "/eye-care-services/your-eye-health/vision-over-60/seven-tips-for-optimal-vision/",
+        "/eye-care-services/your-eye-health/vision-over-60/suggestions-for-age-related-vision-loss/",
+        "/eye-care-services/your-eye-health/vision-surgery/",
+        "/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/",
+        "/eyeglasses-contacts/prescription-eyeglasses/",
+        "/eyeglasses-contacts/prescription-eyeglasses/bifocal-lenses/"
+      ]
+    },
+    {
+      "file": "still-sun",
+      "kind": "still",
+      "shows": "sunglasses with amber lenses on sand",
+      "madeWith": "fal.ai: nano-banana-pro",
+      "files": 4,
+      "pages": [
+        "/eye-care-services/your-eye-health/eye-conditions/photophobia/",
+        "/eyeglasses-contacts/sunglasses/nonprescription-sunglasses/",
+        "/eyeglasses-contacts/sunglasses/performance-and-sport-sunglasses/",
+        "/eyeglasses-contacts/sunglasses/prescription-sunglass-treatments/",
+        "/eyeglasses-contacts/sunglasses/prescription-sunglasses/",
+        "/eyeglasses-contacts/sunglasses/sunglasses-for-kids/"
+      ]
+    }
+  ],
+  "generatedStillsWithARemark": [
+    {
+      "id": "still-home",
+      "remark": "At three times enlargement the inner side of the crossing temple shows a faint row of letter-like marks, and the far temple a darker row by the hinge. The still itself is not shipped: the home page shows the loop made from it, and its first frame as the poster. On the poster (1440 px) and in the loop (1080 px), enlarged four times, no character can be read."
+    },
+    {
+      "id": "still-desk",
+      "remark": "The clear temples show their metal core wire with a dotted texture near the hinges; it is texture, not lettering."
+    },
+    {
+      "id": "still-frames-b",
+      "remark": "The tortoiseshell front carries a small ridged oval stud by the hinge, a decoration with no character in it."
+    }
+  ],
+  "verification": {
+    "measured": "on a local server serving the tree under the project path",
+    "browser": "Chrome 155",
+    "previewChecksVerdict": "PASS",
+    "pageLoads": 413,
+    "picturesLoaded": 1510,
+    "loopsPlayed": 1,
+    "formTrials": {
+      "forms": 1,
+      "trials": 8,
+      "shipped": 2,
+      "control": 2,
+      "attributes": 2,
+      "guards": 2,
+      "controlsSeen": 2,
+      "enterPressed": 2,
+      "buttonClicked": 2
+    },
+    "search": {
+      "results": 30,
+      "outside": 0
+    },
+    "referencesRead": 41025,
+    "localReferences": 37463,
+    "binaries": {
+      "webp": 403,
+      "mp4": 2,
+      "woff2": 6,
+      "svg": 1,
+      "aiLabels": 117
+    },
+    "selfTest": {
+      "defectsPlanted": 127,
+      "reportsExpected": 148,
+      "reportsGiven": 148,
+      "staticRules": 137,
+      "staticRulesExercised": 128,
+      "staticRulesNotExercised": [
+        "a link whose address carries a person's data",
+        "the script cannot be read for comments",
+        "the search index cannot be read",
+        "the search index is not a list of entries",
+        "the font's name records cannot be read",
+        "a font file that does not name its project",
+        "missing (the host would answer an unknown address with its own page)",
+        "the forms of the review company in the private build are not the ones preview-config.mjs names",
+        "missing (run preview-docs.mjs)"
+      ],
+      "rulesOfTheBrowserPass": 22,
+      "rulesOfTheFormTrials": 12,
+      "rulesOfThePublicAddressPass": 19
+    }
+  },
+  "pictures": {
+    "fromTheLiveSiteByName": 149,
+    "fromTheLiveSiteCountingTheRedesignsCuts": 162,
+    "generatedFiles": 117,
+    "pagesShowingAGeneratedPicture": 146,
+    "pagesThatMustShowNoGeneratedPicture": {
+      "words": [
+        "brands-we-carry",
+        "transitions",
+        "carecredit",
+        "infantsee",
+        "latisse",
+        "designer-frames",
+        "/team/",
+        "/testimonial/",
+        "our-eye-doctors",
+        "our-eye-care-clinic",
+        "eye-care-services-old",
+        "/location/",
+        "hours-location",
+        "/slideshow/",
+        "optomap",
+        "advanced-technology"
+      ],
+      "pages": 30,
+      "ofThoseShowingOneOnTheCardOfAnotherPage": []
+    }
+  },
+  "linksThatLeaveThisCopy": {
+    "google.com": 412,
+    "yourlens.com": 207,
+    "facebook.com": 207,
+    "instagram.com": 207,
+    "healthgrades.com": 207,
+    "ecp.eyeglassguide.com": 41,
+    "secure.yourlens.com": 6,
+    "brighteyesdallas.com": 5,
+    "optos.com": 1,
+    "infantsee.org": 1,
+    "latisse.com": 1,
+    "eyeglassguide.com": 1,
+    "carecredit.com": 1,
+    "get.adobe.com": 1
+  },
+  "privateBuildAudit": {
+    "gate": {
+      "verdict": "NOT-READY",
+      "pass": 20,
+      "fail": [
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07",
+        "C16",
+        "C17",
+        "C20",
+        "C22"
+      ],
+      "unproven": 0
+    },
+    "textUnits": {
+      "checked": 6496,
+      "found": 6493,
+      "leftOutWithReason": 3,
+      "missing": 0
+    },
+    "meanRecall": 99.84,
+    "sweep": {
+      "loads": 828,
+      "blocker": 0,
+      "major": 0,
+      "minor": 1425,
+      "nit": 30
+    },
+    "decontamination": "CLEAN",
+    "crawlAndDownloadFailures": {
+      "total": 11,
+      "notFoundOnTheLiveSite": 10,
+      "refused": 1
+    }
+  }
+}
